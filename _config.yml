@@ -1,13 +1,13 @@
-# Permalinks
+  # Permalinks
 #
 # Use of `relative_permalinks` ensures post links from the index work properly.
 permalink:           pretty
 relative_permalinks: true
 
 # Setup
-title:               Jann
-tagline:             'A personal blog'
-description:         'Personal and professional experiences shared with you.'
+title:               Jann Claude Mousquer
+tagline:             'A personal blog   '
+description:         'My name is Jann Claude, I am a christian, web developer, rock climber, pc gamer, working hard to become a better person, every single day.'
 url:                 http://janncm.github.io
 baseurl:             ''
 paginate:            5
