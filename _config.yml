@@ -5,8 +5,8 @@ permalink:           pretty
 relative_permalinks: true
 
 # Setup
-title:               Jann Claude Mousquer
-tagline:             'A personal blog   '
+title:               Jann Claude
+tagline:             'My tech && untech multipurpose personal blog'
 description:         'My name is Jann Claude, I am a christian, web developer, rock climber, pc gamer, working hard to become a better person, every single day.'
 url:                 http://janncm.github.io
 baseurl:             ''
@@ -21,4 +21,4 @@ author:
   linkedin:          https://linkedin.com/in/janncm/en
 
 # Custom vars
-version:             1.0.0
+version:             1.0.1
